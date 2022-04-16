@@ -1,0 +1,16 @@
+WORD GUESSING GAME
+DISCRIPTION:
+This Word guessing game can be useful to improve the vocabulary. While also enjoying the thrill of a game.
+This game is basically:
+One player thinks of a word or phrase; the others try to guess what it is one letter at a time. The player draws a number of dashes equivalent to the number of letters in the word. And gives a hint. (E.g. This is a fruit.)
+If a guessing player suggests a letter that occurs in the word, the other player fills in the blanks with that letter in the right places.
+In the program, the word to guess is represented by a row of dashes representing each letter of the word. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter does not occur in the word, there will be reduction of one of your tries.
+The player guessing the word may, at any time, attempt to guess the whole word. If the word is correct, the game is over and the guesser wins.
+On the other hand, if player run out of tries, the guesser loses. 
+However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the word, before running out of tries.
+
+Members :-
+Word guessing game
+by
+Subhana Ayub Shaikh (19UET042) 
+Minal Sunil Upadhye (19UET050)
