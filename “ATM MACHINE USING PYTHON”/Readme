@@ -1,0 +1,28 @@
+Project Description
+“ATM MACHINE Using Python”
+Project members: 
+i) Saloni Deepak Sokashe (19UET045)
+ii) Neha Shahaji Yadav (19UET054)
+iii) Manasi Mahantesh Honnawar (19UET056)
+
+The Project describes model of ATM Machine using python which basically
+does operations like balance enquiry, cash withdrawal and cash deposit.
+Time module is imported in this project. Time module allows us to
+use time.sleep() function. Due to this function program sleeps for provided
+amount of time which is usually in seconds.
+Program asks for card. After inserting card program waits for 5 seconds, reads
+chip data and asks for Password.
+Note: Password must be 4 digit Number
+It will need pin for reconfirmation of password. Program continuously asks for
+pin until both Pin and Password are matched. For this While loop is used.
+When Password and Pin are matched it will print options as follows:
+i. Balance Enquiry
+ii. Withdraw Amount
+iii. Deposit
+We have provided balance of Rs.10000. All above operations are done with
+respect to this provided balance.
+Program provides 3 options; if user enters option 1, program just checks
+account balance and prints it. Option 2 is for amount withdrawal. It asks for
+amount to be withdrawal, subtracts it from account balance and prints
+remaining balance. Option 3 is Deposit. It asks for total amount that user wants
+to credit adds that amount to account balance and prints updated account balance.
