@@ -1,0 +1,19 @@
+DESCRIPTION:
+
+The Base converter App In Python is a simple project developed using Python.
+The project contains a base conversion system and calculator. The user can
+enter any number and convert them to any number systems (like decimal to
+binary, binary to octal, etc.). Moreover, the user can also use a calculator from
+this application.
+This is a simple GUI-base project which is very easy to understand and use.
+Also, this project makes a convenient way for the user to gain an idea of how
+to perform number conversion.
+In this project, we built a calculator we can use to convert any number from
+any base to any other base. In number systems, “Base” tells us how many
+numbers you have available. Binary has 2, octal has 8, decimal has 10 etc.
+The program can handle any number and base we throw at it. This program
+covers several aspects of programming.
+
+Names: Prachi Bapuso Taware                                PRN:19UET049
+       Akshada Sudhir Waghmode                                 19UET053
+       Yogita Ravindra Vanmore                                 19UET051
