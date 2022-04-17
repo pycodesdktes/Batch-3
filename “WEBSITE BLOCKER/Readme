@@ -1,0 +1,24 @@
+DESCRIPTION
+
+The Project was developed by:
+
+1.Yash Atul Shete
+
+2.Pratik Satish Shetty
+
+The website blocker using python is developed using python tkinder. This
+website blocker is used to block the given website from any device. This
+project will help the user to stay away from their distraction by blocking
+websites from their devices so that they can not open them.
+
+in this python project ,user has to copy the website address that they
+want to block and simply paste that url in the box that pops up. It will block
+the given website on your device.
+
+Libraries installed:
+
+To implement this project we use basic concept of python, tkinder
+library.
+
+TKINDER is astandard GUI(Graphical User Interface) library and it is
+one of the easiest way to build a GUI application.
